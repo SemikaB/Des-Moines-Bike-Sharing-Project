@@ -1,11 +1,11 @@
 # Des-Moines-Bike-Sharing-Project
 Module 14
 
- *Purpose of the Analysis*
+ **Purpose of the Analysis
 
 The purpose of the Bike Sharing Analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal and in-order To solidify the proposal, this analysis was done to show how and when Des-Moines-Bike-Sharing was more effective.
 
-*Results*
+**Results
 
 Here we Show the length of time that bikes are checked out for all riders and genders and it indicates withing 20 min 
 an avgerage if 160k bikes are checked out 
@@ -41,6 +41,6 @@ This heatmap displays the User Trips by Gender by Weekdays and it indicates that
 
 
 
-##Summary
+**Summary
 
 Over all Des-Moines-Bike-Sharing had the potential to be great, with additional investments and more areas to grow since males are more frequent users, initiative can be set inplace to also target females which will also contribute to the rapid growth and development of Des-Moines-Bike-Sharing.
